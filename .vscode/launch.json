@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://Taller_NextJS_SI",
+            "request": "launch",
+            "url": "http://Taller_NextJS_SI"
+        }
+    ]
+}
